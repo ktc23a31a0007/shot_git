@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\ui\\gamestyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\gamestyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|c:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\expitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\expitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\enemyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\upgradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\upgradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BB06D5-ECEB-83F9-580E-201F0F102944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Library\\PackageCache\\com.unity.render-pipelines.universal@a6e30d1f59f5\\Shaders\\2D\\Sprite-Lit-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@a6e30d1f59f5\\Shaders\\2D\\Sprite-Lit-Default.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemySpawner.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T03:14:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpItem.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\ExpItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ExpItem.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\ExpItem.cs",
+              "RelativeToolTip": "Assets\\Script\\ExpItem.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T02:04:19.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameStyle.uss",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\UI\\GameStyle.uss",
+              "RelativeDocumentMoniker": "Assets\\UI\\GameStyle.uss",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\UI\\GameStyle.uss",
+              "RelativeToolTip": "Assets\\UI\\GameStyle.uss",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-12T01:10:00.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerStats.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:04:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpgradeData.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\UpgradeData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UpgradeData.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\UpgradeData.cs",
+              "RelativeToolTip": "Assets\\Script\\UpgradeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T01:03:27.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelManager.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelManager.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAAAPwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:10:21.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sprite-Lit-Default.shader",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Library\\PackageCache\\com.unity.render-pipelines.universal@a6e30d1f59f5\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@a6e30d1f59f5\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Library\\PackageCache\\com.unity.render-pipelines.universal@a6e30d1f59f5\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@a6e30d1f59f5\\Shaders\\2D\\Sprite-Lit-Default.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-05-11T06:21:37.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyEntity.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\EnemyEntity.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyEntity.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\EnemyEntity.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyEntity.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T06:18:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\23a31a0007\\\u7B2C3\u56DE\\shot\\shoting\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T06:17:56.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

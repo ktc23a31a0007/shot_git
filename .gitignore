@@ -1,0 +1,13 @@
+/[Ll]ibrary/
+/[Temp]/
+/[Obj]/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[MemoryCaptures]/
+/UserSettings/
+/Hub/
+~$*
+*.csproj
+*.sln
+*.suo

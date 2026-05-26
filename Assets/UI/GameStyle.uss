@@ -1,0 +1,72 @@
+/* ==========================================
+   Level Up Screen Layout
+   ========================================== */
+
+/* 画面全体を覆う半透明の背景 */
+#LevelUpScreen {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+    justify-content: center;
+    align-items: center;
+    display: none; /* C#からDisplayStyle.Flexに切り替える */
+}
+
+/* カードが横に並ぶコンテナ */
+#CardContainer {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80%;
+    /* 念のため中身がはみ出しても潰れないようにするセーフティ */
+    flex-wrap: nowrap; 
+}
+
+/* 強化カード本体のベースデザイン */
+.upgrade-card {
+    width: 250px;
+    height: 400px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 20px;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-radius: 15px;
+    background-color: rgba(30, 30, 30, 0.95);
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    transition-duration: 0.15s;
+}
+
+/* ホバー時のアニメーション効果 */
+.upgrade-card:hover {
+    scale: 1.05;
+    background-color: rgba(45, 45, 45, 1);
+}
+
+/* ==========================================
+   Card Elements (Unity 対応クラス)
+   ========================================== */
+
+/* 名前ラベル（一番上のタイトル） */
+.upgrade-name-label {
+    font-size: 20px;
+    -unity-font-style: bold;
+    color: #ffffff;
+    margin-bottom: 12px;
+    white-space: normal;
+    -unity-text-align: middle-center;
+    width: 100%;
+}
+
+/* カード内のテキスト共通設定 */
+.upgrade-card Label {
+    color: #ffffff;
+    -unity-text-align: middle-center;
+    white-space: normal;
+}
