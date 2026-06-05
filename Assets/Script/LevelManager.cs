@@ -179,8 +179,8 @@ public class LevelManager : MonoBehaviour
         card.AddToClassList(data.GetRarityClassName());
 
         // 【安全対策】USS側が読み込めていなくても、最低限見えるサイズと色をC#側から保証
-        card.style.width = 250;
-        card.style.height = 400;
+        card.style.width = 150;
+        card.style.height = 230;
         card.style.backgroundColor = new Color(0.15f, 0.15f, 0.15f, 0.95f);
         card.style.flexDirection = FlexDirection.Column;
         card.style.alignItems = Align.Center;
