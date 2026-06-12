@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28830ac358528ac4c8b1a74078ed9293, type: 3}
   m_Name: MaxHPUC
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  upgradeName: "\u6700\u5927HP\u4E0A\u6607(\u30A2\u30F3\u30B3\u30E2\u30F3)"
+  upgradeName: "\u6700\u5927HP\u4E0A\u6607"
   description: "\u4F53\u529B\u304C\u4E0A\u6607\u3059\u308B\u30104\u3011"
   type: 12
   rarity: 1

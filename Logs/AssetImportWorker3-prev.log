@@ -1,0 +1,457 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.8f1 (1c7db571dde0) revision 1867189'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'ja' Physical Memory: 32496 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ktc" at "2026-06-05T07:49:56.7140655Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-05T07:49:56Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/23a31a0007/shot/My project
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+65063
+-licensingIpc
+LicenseClient-ktc
+-job-worker-count
+11
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/23a31a0007/shot/My project
+C:/23a31a0007/shot/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [23368]  Target information:
+
+Player connection [23368]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1589643075 [EditorId] 1589643075 [Version] 1048832 [Id] WindowsEditor(7,raytrek2-45) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23368]  * "[IP] 172.22.81.53 [Port] 0 [Flags] 2 [Guid] 1589643075 [EditorId] 1589643075 [Version] 1048832 [Id] WindowsEditor(7,raytrek2-45) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [23368] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [23368] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 3.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.8f1 (1c7db571dde0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/23a31a0007/shot/My project/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.8157
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56736
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              39f9e0cd66894f489a218234ebcadde3
+  Correlation Id:          1dcf5efae5aeef902a003c2939aea0e7
+  External correlation Id: 8621262487390548567
+  Machine Id:              yhYzvcs96SQELwjUOw4bYpav32I=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ktc" (connect: 0.00s, validation: 0.01s, handshake: 1.04s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ktc-notifications" at "2026-06-05T07:49:57.7669353Z"
+[Licensing::Module] Licensing Background thread has ended after 1.05s
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: E4-BG37-77P2-4AKS-TH2W-XXXX
+  Product: Unity Education
+  Type: ULF
+  Expiration: 2027-05-09T00:00:00Z
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.018366 seconds.
+- Loaded All Assemblies, in  0.501 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 740 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.260 seconds
+Domain Reload Profiling: 1758ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (183ms)
+		LoadAssemblies (180ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (179ms)
+			TypeCache.Refresh (177ms)
+				TypeCache.ScanAssembly (164ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (1260ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1214ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (837ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (112ms)
+			ProcessInitializeOnLoadAttributes (183ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  0.830 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.893 seconds
+Domain Reload Profiling: 1718ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (553ms)
+		LoadAssemblies (371ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (276ms)
+			TypeCache.Refresh (190ms)
+				TypeCache.ScanAssembly (172ms)
+			BuildScriptInfoCaches (71ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (894ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (723ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (198ms)
+			ProcessInitializeOnLoadAttributes (360ms)
+			ProcessInitializeOnLoadMethodAttributes (137ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6917 unused Assets / (4.8 MB). Loaded Objects now: 7736.
+Memory consumption went from 159.1 MB to 154.3 MB.
+Total: 13.423100 ms (FindLiveObjects: 1.060500 ms CreateObjectMapping: 0.622300 ms MarkObjects: 8.864000 ms  DeleteObjects: 2.873900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 914.639427 seconds.
+  path: Assets/Script/UpGrades/DamageR.asset
+  artifactKey: Guid(0a3b7948990eb0b43b8b999cb8dc036f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/UpGrades/DamageR.asset using Guid(0a3b7948990eb0b43b8b999cb8dc036f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c64996db0974612d3e17e58d121e6545') in 0.1003758 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Settings/Scenes/URP2DSceneTemplate.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9e8df9874472b1cae59ef528f12d00bf') in 0.0039141 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Script/UpGrades/HealUC.asset
+  artifactKey: Guid(2c23c3560ede83546b0724396f28f585) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/UpGrades/HealUC.asset using Guid(2c23c3560ede83546b0724396f28f585) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7548a4b6f5dd3a7a511560d3bfaf9d31') in 0.0071697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Script/EnemySpawner.cs
+  artifactKey: Guid(7f028a4fd19fb60448664c284512b115) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/EnemySpawner.cs using Guid(7f028a4fd19fb60448664c284512b115) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e35a413e0c2086fcad36ce798650380c') in 0.0094123 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Script/UpGrades/HealR.asset
+  artifactKey: Guid(56fce909f6d7b3644bbefcac652e520c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/UpGrades/HealR.asset using Guid(56fce909f6d7b3644bbefcac652e520c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '98c8e47132872a4ac0a01486b9839b44') in 0.0045542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Script/UpGrades/DamageC.asset
+  artifactKey: Guid(49d39f871b3a21b4a903d4b7c7bda864) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/UpGrades/DamageC.asset using Guid(49d39f871b3a21b4a903d4b7c7bda864) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '57b3797a5cd09ef2805fc3107034d9d6') in 0.0057742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Settings/Renderer2D.asset
+  artifactKey: Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Settings/Renderer2D.asset using Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '033a63979c097ee31f2f9be9ee94140c') in 0.0239869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Script/UpGrades/ExpGainL.asset
+  artifactKey: Guid(fc8a26aa3965a0641a79f8f65adc4fb6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/UpGrades/ExpGainL.asset using Guid(fc8a26aa3965a0641a79f8f65adc4fb6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '61ddb947f38cbeb64acfb1d38cf6a603') in 0.0042479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Script/UpGrades/DamageReduceUC.asset
+  artifactKey: Guid(476b8fc854dc1df49ac511367a88d09f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Script/UpGrades/DamageReduceUC.asset using Guid(476b8fc854dc1df49ac511367a88d09f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cab8f2f2620a5e064ebda3723096e3f2') in 0.0039564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.546531 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(2bcd2660ca9b64942af0de543d8d7100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(2bcd2660ca9b64942af0de543d8d7100) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '234da3ff7b360d379f304b75e2c4ab1c') in 0.0162505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.475032 seconds.
+  path: Assets/Script/Enemy.prefab
+  artifactKey: Guid(90a848e9b308c314fb25dbc8edbd2d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Enemy.prefab using Guid(90a848e9b308c314fb25dbc8edbd2d31) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e998649e43dce1b3062030eccec9ae2') in 0.2829983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 18
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.766969 seconds.
+  path: Assets/Settings/Renderer2D.asset
+  artifactKey: Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Renderer2D.asset using Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f133c080beaa387166695725f96a81c') in 0.0007826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Settings/UniversalRP.asset
+  artifactKey: Guid(681886c5eb7344803b6206f758bf0b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP.asset using Guid(681886c5eb7344803b6206f758bf0b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44afeb0ddd9e8b5b1422fe7807f37136') in 0.0007094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 953.639201 seconds.
+  path: Assets/UI/GameStyle.uss
+  artifactKey: Guid(cb362ce400f8d1e40a86670278d77733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/GameStyle.uss using Guid(cb362ce400f8d1e40a86670278d77733) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f921e85d452be1afbd6e86ed0ee6f58c') in 0.0069061 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.142025 seconds.
+  path: Assets/Script/UpGrades/Bomb.asset
+  artifactKey: Guid(6be1659384887384f9c55815eea22795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/Bomb.asset using Guid(6be1659384887384f9c55815eea22795) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e6a620fd45a8840d98d03be2b11ad38') in 0.0012684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Script/UpGrades/DamageL.asset
+  artifactKey: Guid(c73778e67b40d1b44aa98f795baceef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/DamageL.asset using Guid(c73778e67b40d1b44aa98f795baceef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b91a39ca836a8be24e3005b3ba32cfd4') in 0.0014 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Script/UpGrades/ExpGainL.asset
+  artifactKey: Guid(fc8a26aa3965a0641a79f8f65adc4fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/ExpGainL.asset using Guid(fc8a26aa3965a0641a79f8f65adc4fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1741264f829c7e1ae490b1809f921945') in 0.0010604 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Script/UpGrades/MaxHPUC.asset
+  artifactKey: Guid(8dde6a1d050aedb48b39ea8b2612296c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/MaxHPUC.asset using Guid(8dde6a1d050aedb48b39ea8b2612296c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c143b88915d30c09ebc3661c3c3b9308') in 0.0009876 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Script/UpGrades/MaxHPC.asset
+  artifactKey: Guid(41ac11b6e58ec7a4da65a8065a42dc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/MaxHPC.asset using Guid(41ac11b6e58ec7a4da65a8065a42dc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5882ff8bc3743d53233363bb6c290c12') in 0.0010711 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Script/UpGrades/ShotCount.asset
+  artifactKey: Guid(517f63d248f33ac4bb198a4d7ec1a6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/ShotCount.asset using Guid(517f63d248f33ac4bb198a4d7ec1a6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39d57c2714f0e368255d34210c20843e') in 0.0011577 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Script/UpGrades/ExpGainC.asset
+  artifactKey: Guid(1f7d1dc91cb50834a9388228c68e2c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/ExpGainC.asset using Guid(1f7d1dc91cb50834a9388228c68e2c7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7f735b6aa36b17034dc9e4c5747176d5') in 0.0010856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Script/UpGrades/DamageUC.asset
+  artifactKey: Guid(d19028b84be0cc8448d8fa1083306fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/DamageUC.asset using Guid(d19028b84be0cc8448d8fa1083306fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '026632326d9e9fb28f7c2412731b9e56') in 0.0011287 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Script/UpGrades/ExpGainUC.asset
+  artifactKey: Guid(06eb6f4f2d622de4ebd07b3ec733d48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/ExpGainUC.asset using Guid(06eb6f4f2d622de4ebd07b3ec733d48e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b2e24f4a363e8bb2f4da3df7784dc67f') in 0.0014891 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Script/UpGrades/DamageReduceC.asset
+  artifactKey: Guid(7bcdf6b08d53a204aba2bfcd79099c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/DamageReduceC.asset using Guid(7bcdf6b08d53a204aba2bfcd79099c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a775562608a0cbf78b7eeee4ee58bda6') in 0.0010673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Script/UpGrades/MaxHPR.asset
+  artifactKey: Guid(d9e68c78db758c14e8f21324d4ff8b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/MaxHPR.asset using Guid(d9e68c78db758c14e8f21324d4ff8b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ea2d4607a27a4f3c663703ba9894d4f') in 0.001161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Script/UpGrades/HealUC.asset
+  artifactKey: Guid(2c23c3560ede83546b0724396f28f585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/HealUC.asset using Guid(2c23c3560ede83546b0724396f28f585) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f1d03d98fea4c4a008781716e0c94a6') in 0.0015122 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Script/UpGrades/MaxHPL.asset
+  artifactKey: Guid(3cb9967a2fc447d4dbbe7ee855f8c0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/MaxHPL.asset using Guid(3cb9967a2fc447d4dbbe7ee855f8c0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cf497a9f39f60203762fa4e9f97fb9e') in 0.0014404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Script/UpGrades/DamageR.asset
+  artifactKey: Guid(0a3b7948990eb0b43b8b999cb8dc036f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/UpGrades/DamageR.asset using Guid(0a3b7948990eb0b43b8b999cb8dc036f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94f0c49f23db62b057f91d6b98e5e94e') in 0.00127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

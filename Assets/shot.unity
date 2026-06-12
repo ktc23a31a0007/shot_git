@@ -234,7 +234,7 @@ MonoBehaviour:
   currentHP: 0
   maxHP: 100
   attackDamage: 10
-  fireRate: 0.5
+  fireRate: 1
   moveSpeed: 7
   expMultiplier: 1
   damageReduction: 0

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28830ac358528ac4c8b1a74078ed9293, type: 3}
   m_Name: HealUC
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  upgradeName: "\u4F53\u529B\u56DE\u5FA9(\u30A2\u30F3\u30B3\u30E2\u30F3)"
+  upgradeName: "\u4F53\u529B\u56DE\u5FA9"
   description: "\u4F53\u529B\u304C\u56DE\u5FA9\u3059\u308B\u30103\u3011"
   type: 16
   rarity: 1

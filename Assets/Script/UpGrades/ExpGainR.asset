@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28830ac358528ac4c8b1a74078ed9293, type: 3}
   m_Name: ExpGainR
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  upgradeName: "\u7D4C\u9A13\u5024\u7372\u5F97\u91CF\u4E0A\u6607(\u30EC\u30A2)"
+  upgradeName: "\u7D4C\u9A13\u5024\u7372\u5F97\u91CF\u4E0A\u6607"
   description: "\u7D4C\u9A13\u5024\u306E\u7372\u5F97\u91CF\u304C\u4E0A\u6607\u3059\u308B\u301030\uFF05\u3011"
   type: 2
   rarity: 2
-  value: 30
+  value: 0.3
   maxLevel: 0

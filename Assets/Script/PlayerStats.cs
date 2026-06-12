@@ -5,10 +5,10 @@ public class PlayerStats : MonoBehaviour
 {
     [Header("Base Stats")]
     public float currentHP;
-    public float maxHP = 100f;
+    public float maxHP = 5f;
     public float attackDamage = 10f;
-    public float fireRate = 0.5f;
-    public float moveSpeed = 7f;
+    public float fireRate = 0.1f;
+    public float moveSpeed = 2.5f;
     public float expMultiplier = 1.0f;
     public float damageReduction = 0f;
     public int shotCount = 1;

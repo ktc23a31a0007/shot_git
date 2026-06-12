@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\23a31a0007\\shot\\my project\\assets\\ui\\gamestyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\23a31a0007\\shot\\my project\\assets\\script\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\23a31a0007\\shot\\My project\\assets\\ui\\gamestyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\gamestyle.uss||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
@@ -22,11 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\23a31a0007\\shot\\My project\\Assets\\Script\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerStats.cs",
+              "ToolTip": "C:\\23a31a0007\\shot\\My project\\Assets\\Script\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:36:40.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GameStyle.uss",
               "DocumentMoniker": "C:\\23a31a0007\\shot\\My project\\Assets\\UI\\GameStyle.uss",
               "RelativeDocumentMoniker": "Assets\\UI\\GameStyle.uss",
@@ -34,12 +55,7 @@
               "RelativeToolTip": "Assets\\UI\\GameStyle.uss",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-06-05T09:58:48.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-06-05T09:58:48.637Z"
             },
             {
               "$type": "Document",
@@ -49,14 +65,14 @@
               "RelativeDocumentMoniker": "Assets\\Script\\LevelManager.cs",
               "ToolTip": "C:\\23a31a0007\\shot\\My project\\Assets\\Script\\LevelManager.cs",
               "RelativeToolTip": "Assets\\Script\\LevelManager.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAswLYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T08:31:43.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpgradeData.cs",
               "DocumentMoniker": "C:\\23a31a0007\\shot\\My project\\Assets\\Script\\UpgradeData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\UpgradeData.cs",

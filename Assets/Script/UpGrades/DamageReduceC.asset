@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28830ac358528ac4c8b1a74078ed9293, type: 3}
   m_Name: DamageReduceC
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  upgradeName: "\u88AB\u30C0\u30E1\u30FC\u30B8\u6E1B\u5C11(\u30B3\u30E2\u30F3)"
+  upgradeName: "\u88AB\u30C0\u30E1\u30FC\u30B8\u6E1B\u5C11"
   description: "\u88AB\u30C0\u30E1\u30FC\u30B8\u304C\u6E1B\u5C11\u3059\u308B\u30101\u3011"
   type: 19
   rarity: 0
